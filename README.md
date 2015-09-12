@@ -8,6 +8,9 @@ HAHAHA
 this may explain the simulation pic (that doesnt touch the equilibrium) =)))
 because in this version, the population can touch the mixed equi
 
+- second, i break the file into modules
+- (doesnt touch the out-data though)
+
 # also, i learn this the hard way
 
  no matter how delusive a mutable data structure is, work with the "ugly" immutable one.
